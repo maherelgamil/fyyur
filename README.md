@@ -173,7 +173,7 @@ pip install -r requirements.txt
 ```
 export FLASK_APP=myapp
 export FLASK_ENV=development # enables debug mode
-python3 app.py
+python3 app.py runserver
 ```
 
 6. **Verify on the Browser**<br>
